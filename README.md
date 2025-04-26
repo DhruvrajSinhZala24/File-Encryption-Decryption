@@ -27,6 +27,7 @@ The **File Encryption and Decryption** project is a Python-based tool that secur
 Install the required library:
 ```bash
 pip install cryptography
+```
 
 ---
 
